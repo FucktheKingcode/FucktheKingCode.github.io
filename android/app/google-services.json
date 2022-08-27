@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941677238843",
+    "project_id": "opac-ha-app",
+    "storage_bucket": "opac-ha-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941677238843:android:fc433536498d85f9cf5a1e",
+        "android_client_info": {
+          "package_name": "com.example.opac_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941677238843-2b08detdr9nq3k03dtc7dgf12cn22e4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGCue1MZfFid0inwjNwDU9X1OHi3ylmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941677238843-2b08detdr9nq3k03dtc7dgf12cn22e4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
